@@ -5,6 +5,7 @@
 - Curso de JavaScript
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+<img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/>
 <!---![GitHub language count](https://img.shields.io/github/languages/count/Tharllyene/README-template?style=Curso-em-Video)
 ![GitHub top language](https://img.shilders.io/github/languages/top/Tharllyene/README-templete?style=Curso-em-Video)--->
 
